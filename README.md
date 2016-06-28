@@ -26,4 +26,10 @@ Any interested people are invited. We aims to foster a highly discussion-oriente
 |June 3| Hao Zhu|<ul><li>Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio. <br> Generative Adversarial Nets<br> In NIPS, 2014 </li> </ul>| |
 |May 20| Jing Chen| <ul><li> Guofeng Zhang, Jiaya Jia, Tien-Tsin Wong, and Hujun Bao. <br> Recovering consistent video depth maps via bundle optimization <br> In CVPR, 2008 </li> <li> Kevin Karsch, Ce Liu, and Sing Bing Kang. <br> Depth extraction from video using non-parametric sampling <br> In ECCV, 2012</li> </ul> | |
 
+##Reference
 
+[1] <http://groups.csail.mit.edu/cag/ict4dev/> 
+
+[2] <http://carch.mycpanel2.princeton.edu/wordpress/>
+
+[3] <http://www.cs.sfu.ca/~torsten/GL/papers.html>
