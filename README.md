@@ -14,15 +14,15 @@ This reading group is formed by students from Natural Perception Lab at CWRU. We
 
 Each week, one of our members leads the group through a discussion of 1-2 seminal papers. He/She may make a presentation at first. Then, we proceed to brainstorm ideas and critique the paper’s methodology, novelty, and scope of work. In addition, we discuss the paper’s writing style, its structure, and its ability to communicate ideas effectively. 
 
-Any interested people are invited. The enviroment for our members to expound ideas and imbibe knowledge is highly discussion-oriented.
+Any interested people are invited. We aims to foster a highly discussion-oriented environment for our members to expound ideas and imbibe knowledge.
 
 ## Schedule
 
 | Date | Presenter | Topic |  Notes |
 | ---  | --- | --- | --- |
-| June 1|Jing Chen | <ul><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng. <br >Learning Depth from Single Monocular Images. <br>In NIPS, 2005.</li><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng.<br> 3-D Depth Reconstruction from a Single Still Image.<br> In IJCV, 2007.</li></ul>| |
+| July 1|Jing Chen | <ul><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng. <br >Learning Depth from Single Monocular Images. <br>In NIPS, 2005.</li><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng.<br> 3-D Depth Reconstruction from a Single Still Image.<br> In IJCV, 2007.</li></ul>| |
 | June 24| Hao Zhu |<ul><li>Caglar Gulcehre, Marcin Moczulski, Misha Denil, Yoshua Bengio<br>Noisy Activation Functions<br>In  arXiv:1603.00391</li></ul>||
-|Jun 10 | Jing Chen| <ul> <li>Max Jaderberg, Karen Simonyan, and Andrew Zisserman.<br> Spatial transformer networks.<br> In NIPS, 2015. </li></ul>| |
+|June 10 | Jing Chen| <ul> <li>Max Jaderberg, Karen Simonyan, and Andrew Zisserman.<br> Spatial transformer networks.<br> In NIPS, 2015. </li></ul>| |
 |June 3| Hao Zhu|<ul><li>Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio. <br> Generative Adversarial Nets<br> In NIPS, 2014 </li> </ul>| |
 |May 20| Jing Chen| <ul><li> Guofeng Zhang, Jiaya Jia, Tien-Tsin Wong, and Hujun Bao. <br> Recovering consistent video depth maps via bundle optimization <br> In CVPR, 2008 </li> <li> Kevin Karsch, Ce Liu, and Sing Bing Kang. <br> Depth extraction from video using non-parametric sampling <br> In ECCV, 2012</li> </ul> | |
 
