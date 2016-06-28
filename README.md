@@ -9,6 +9,7 @@ Reading group formed by students from Natural Perception Lab at CWRU.
 
 **Topics**: Computational perception, machine learning, visual representation and processing and more.
 
+## Overview
 This reading group is formed by students from Natural Perception Lab at CWRU. We get together weekly to talk about a paper that seems interesting. We hope that this accomplishes our objective of achieving a more holistic understanding of the broader field and keeping up on the latest progress.
 
 Each week, one of our members leads the group through a discussion of 1-2 seminal papers. He/She may make a presentation at first. Then, we proceed to brainstorm ideas and critique the paper’s methodology, novelty, and scope of work. In addition, we discuss the paper’s writing style, its structure, and its ability to communicate ideas effectively. 
