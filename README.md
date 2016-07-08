@@ -26,7 +26,7 @@ Any interested people are invited. We aims to foster a highly discussion-oriente
 | June 24| Hao Zhu |<ul><li>Caglar Gulcehre, Marcin Moczulski, Misha Denil, Yoshua Bengio.<br>Noisy Activation Functions.<br>In  arXiv:1603.00391.</li></ul>||
 |June 10 | Jing Chen| <ul> <li>Max Jaderberg, Karen Simonyan, and Andrew Zisserman.<br> Spatial transformer networks.<br> In NIPS, 2015. </li></ul>| |
 |June 3| Hao Zhu|<ul><li>Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio. <br> Generative Adversarial Nets.<br> In NIPS, 2014. </li> </ul>| |
-|May 20| Jing Chen| <ul><li> Guofeng Zhang, Jiaya Jia, Tien-Tsin Wong, and Hujun Bao. <br> Recovering consistent video depth maps via bundle optimization. <br> In CVPR, 2008 </li> <li> Kevin Karsch, Ce Liu, and Sing Bing Kang. <br> Depth extraction from video using non-parametric sampling. <br> In ECCV, 2012.</li> </ul> | |
+|May 20| Jing Chen| <ul><li> Guofeng Zhang, Jiaya Jia, Tien-Tsin Wong, and Hujun Bao. <br> Recovering consistent video depth maps via bundle optimization. <br> In CVPR, 2008. </li> <li> Kevin Karsch, Ce Liu, and Sing Bing Kang. <br> Depth extraction from video using non-parametric sampling. <br> In ECCV, 2012.</li> </ul> | |
 
 ##Reference
 
