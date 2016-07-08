@@ -20,6 +20,7 @@ Any interested people are invited. We aims to foster a highly discussion-oriente
 
 | Date | Presenter | Topic |  Notes |
 | ---  | --- | --- | --- |
+| July 8 | Hao Zhu | <ul><li>Taesup Kim and Yoshua Bengio. <br>Deep Directed Generative Models with Energy-Based Probability Estimation<br>ICLR Workshop 2016</li></ul>| |
 | July 1|Jing Chen | <ul><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng. <br >Learning Depth from Single Monocular Images. <br>In NIPS, 2005.</li><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng.<br> 3-D Depth Reconstruction from a Single Still Image.<br> In IJCV, 2007.</li></ul>| |
 | June 24| Hao Zhu |<ul><li>Caglar Gulcehre, Marcin Moczulski, Misha Denil, Yoshua Bengio<br>Noisy Activation Functions<br>In  arXiv:1603.00391</li></ul>||
 |June 10 | Jing Chen| <ul> <li>Max Jaderberg, Karen Simonyan, and Andrew Zisserman.<br> Spatial transformer networks.<br> In NIPS, 2015. </li></ul>| |
