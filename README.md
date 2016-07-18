@@ -20,6 +20,7 @@ Any interested people are invited. We aims to foster a highly discussion-oriente
 
 | Date | Presenter | Topic |  Notes |
 | ---  | --- | --- | --- |
+| July 29| Jing Chen | <ul><li> Yoshua Bengio, Aaron Courville, and Pascal Vincent.<br> Representation Learning: A Review and New Perspectives.<br> In PAMI, 2013.<br></li></ul>||
 | July 15| Jing Chen | <ul> <li>Daniel Scharstein and Richard Szeliski.<br>A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms. <br> In IJCV 2002. </li></ul> | |
 | July 8 | Hao Zhu | <ul><li>Taesup Kim and Yoshua Bengio. <br>Deep Directed Generative Models with Energy-Based Probability Estimation.<br>In ICLR Workshop 2016.</li></ul>| |
 | July 1|Jing Chen | <ul><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng. <br >Learning Depth from Single Monocular Images. <br>In NIPS, 2005.</li><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng.<br> 3-D Depth Reconstruction from a Single Still Image.<br> In IJCV, 2007.</li></ul>| |
