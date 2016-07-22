@@ -20,7 +20,7 @@ Any interested people are invited. We aims to foster a highly discussion-oriente
 
 | Date | Presenter | Topic |  Notes |
 | ---  | --- | --- | --- |
-| July 29| Jing Chen | <ul><li> Marc’Aurelio Ranzato and Geoffrey E. Hinton.<br> Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines.<br> In CVPR, 2010.</li></ul>||
+| July 29| Jing Chen | <ul><li> Marc’Aurelio Ranzato and Geoffrey E. Hinton.<br> Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines.<br> In CVPR, 2010.</li><li>Marc’Aurelio Ranzato, Volodymyr Mnih and Geoffrey E. Hinton.<br>Generating more realistic images using gated MRF’s.<br>In NIPS, 2010.</li></ul>||
 |July 21| Hao Zhu | <ul><li>Gustav Larsson, Michael Maire, and Gregory Shakhnarovich.<br> Learning Representations for Automatic Colorization.<br>In arXiv:1603.06668.</li></ul>||
 | July 15| Jing Chen | <ul> <li>Daniel Scharstein and Richard Szeliski.<br>A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms. <br> In IJCV, 2002. </li></ul> | |
 | July 8 | Hao Zhu | <ul><li>Taesup Kim and Yoshua Bengio. <br>Deep Directed Generative Models with Energy-Based Probability Estimation.<br>In ICLR Workshop, 2016.</li></ul>| |
