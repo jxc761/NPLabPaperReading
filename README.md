@@ -21,15 +21,15 @@ Any interested people are invited. We aims to foster a highly discussion-oriente
 | Date | Presenter | Topic |  Notes |
 | ---  | --- | --- | --- |
 | 9/2/16|Jing Chen | <ul><li>Xavier Glorot, Antoine Bordes and Yoshua Bengio.<br>Deep Sparse Rectifier Neural Networks.<br> In AISTATS, 2011.</li></ul>|| 
-| July 29| Jing Chen | <ul><li> Marc’Aurelio Ranzato and Geoffrey E. Hinton.<br> Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines.<br> In CVPR, 2010.</li><li>Marc’Aurelio Ranzato, Volodymyr Mnih and Geoffrey E. Hinton.<br>Generating more realistic images using gated MRF’s.<br>In NIPS, 2010.</li></ul>||
-|July 21| Hao Zhu | <ul><li>Gustav Larsson, Michael Maire, and Gregory Shakhnarovich.<br> Learning Representations for Automatic Colorization.<br>In arXiv:1603.06668.</li></ul>||
-| July 15| Jing Chen | <ul> <li>Daniel Scharstein and Richard Szeliski.<br>A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms. <br> In IJCV, 2002. </li></ul> | |
-| July 8 | Hao Zhu | <ul><li>Taesup Kim and Yoshua Bengio. <br>Deep Directed Generative Models with Energy-Based Probability Estimation.<br>In ICLR Workshop, 2016.</li></ul>| |
-| July 1|Jing Chen | <ul><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng. <br >Learning Depth from Single Monocular Images. <br>In NIPS, 2005.</li><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng.<br> 3-D Depth Reconstruction from a Single Still Image.<br> In IJCV, 2007.</li></ul>| |
-| June 24| Hao Zhu |<ul><li>Caglar Gulcehre, Marcin Moczulski, Misha Denil, Yoshua Bengio.<br>Noisy Activation Functions.<br>In  arXiv:1603.00391.</li></ul>||
-|June 10 | Jing Chen| <ul> <li>Max Jaderberg, Karen Simonyan, and Andrew Zisserman.<br> Spatial transformer networks.<br> In NIPS, 2015. </li></ul>| |
-|June 3| Hao Zhu|<ul><li>Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio. <br> Generative Adversarial Nets.<br> In NIPS, 2014. </li> </ul>| |
-|May 20| Jing Chen| <ul><li> Guofeng Zhang, Jiaya Jia, Tien-Tsin Wong, and Hujun Bao. <br> Recovering consistent video depth maps via bundle optimization. <br> In CVPR, 2008. </li> <li> Kevin Karsch, Ce Liu, and Sing Bing Kang. <br> Depth extraction from video using non-parametric sampling. <br> In ECCV, 2012.</li> </ul> | |
+| 7/29/16| Jing Chen | <ul><li> Marc’Aurelio Ranzato and Geoffrey E. Hinton.<br> Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines.<br> In CVPR, 2010.</li><li>Marc’Aurelio Ranzato, Volodymyr Mnih and Geoffrey E. Hinton.<br>Generating more realistic images using gated MRF’s.<br>In NIPS, 2010.</li></ul>||
+|7/21/16| Hao Zhu | <ul><li>Gustav Larsson, Michael Maire, and Gregory Shakhnarovich.<br> Learning Representations for Automatic Colorization.<br>In arXiv:1603.06668.</li></ul>||
+| 7/15/16| Jing Chen | <ul> <li>Daniel Scharstein and Richard Szeliski.<br>A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms. <br> In IJCV, 2002. </li></ul> | |
+| 7/8/16 | Hao Zhu | <ul><li>Taesup Kim and Yoshua Bengio. <br>Deep Directed Generative Models with Energy-Based Probability Estimation.<br>In ICLR Workshop, 2016.</li></ul>| |
+| 7/1/16|Jing Chen | <ul><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng. <br >Learning Depth from Single Monocular Images. <br>In NIPS, 2005.</li><li>Ashutosh Saxena, Sung H. Chung, Andrew Y. Ng.<br> 3-D Depth Reconstruction from a Single Still Image.<br> In IJCV, 2007.</li></ul>| |
+| 6/24/16| Hao Zhu |<ul><li>Caglar Gulcehre, Marcin Moczulski, Misha Denil, Yoshua Bengio.<br>Noisy Activation Functions.<br>In  arXiv:1603.00391.</li></ul>||
+|6/10/16 | Jing Chen| <ul> <li>Max Jaderberg, Karen Simonyan, and Andrew Zisserman.<br> Spatial transformer networks.<br> In NIPS, 2015. </li></ul>| |
+|6/3/16| Hao Zhu|<ul><li>Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio. <br> Generative Adversarial Nets.<br> In NIPS, 2014. </li> </ul>| |
+|5/20/16| Jing Chen| <ul><li> Guofeng Zhang, Jiaya Jia, Tien-Tsin Wong, and Hujun Bao. <br> Recovering consistent video depth maps via bundle optimization. <br> In CVPR, 2008. </li> <li> Kevin Karsch, Ce Liu, and Sing Bing Kang. <br> Depth extraction from video using non-parametric sampling. <br> In ECCV, 2012.</li> </ul> | |
 
 ##Reference
 
