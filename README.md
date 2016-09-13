@@ -20,6 +20,7 @@ Any interested people are invited. We aims to foster a highly discussion-oriente
 
 | Date | Presenter | Topic |  Notes |
 | ---  | --- | --- | --- |
+|9/16/16|Jing Chen| <ul><li>Fayao Liu, Chunhua Shen, and Guosheng Lin.<br>Deep Convolutional Neural Fields for Depth Estimation from a Single Image.<br>In CVPR, 2015.</li><li>Fayao Liu, Chunhua Shen, Guosheng Lin, and Ian Reid.<br>Deep convolutional neural fields for depth estimation from a single image.<br>In TPAMI, 2015.</li></ul>||
 | 9/2/16|Jing Chen | <ul><li>Xavier Glorot, Antoine Bordes and Yoshua Bengio.<br>Deep Sparse Rectifier Neural Networks.<br> In AISTATS, 2011.</li></ul>|| 
 | 7/29/16| Jing Chen | <ul><li> Marc’Aurelio Ranzato and Geoffrey E. Hinton.<br> Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines.<br> In CVPR, 2010.</li><li>Marc’Aurelio Ranzato, Volodymyr Mnih and Geoffrey E. Hinton.<br>Generating more realistic images using gated MRF’s.<br>In NIPS, 2010.</li></ul>||
 |7/21/16| Hao Zhu | <ul><li>Gustav Larsson, Michael Maire, and Gregory Shakhnarovich.<br> Learning Representations for Automatic Colorization.<br>In arXiv:1603.06668.</li></ul>||
